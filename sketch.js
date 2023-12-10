@@ -120,8 +120,8 @@ function setup() {
   exit = [exit00, exit01, exit02];
   
   
-  //createCanvas(1290/5, 2796/5);
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(1290, 2796);
+  //createCanvas(windowWidth, windowHeight);
   xPos = width/2;
   yPos = 1.55*height/2;
   r = width/20;
